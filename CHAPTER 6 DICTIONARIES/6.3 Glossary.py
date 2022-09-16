@@ -1,0 +1,11 @@
+Glossary = {"Variable": "A variable is a reserved memory location to store values.",
+            "Function": "A function is a block of organized, reusable code that is used to perform a single, related action.",
+            "Script": "A script is a collection of commands in a file designed to be executed like a program.",
+            "Class": "A class is a code template for creating objects.",
+            "Dictionary": "A dictionary is a collection which is unordered, changeable and indexed.",
+            }
+print("Variable: " +  Glossary["Variable"])
+print("\nFunction: " + Glossary["Function"])
+print("\nScript: " + Glossary["Script"])
+print("\nClass: " + Glossary["Class"])
+print("\nDictionary: " + Glossary["Dictionary"])
